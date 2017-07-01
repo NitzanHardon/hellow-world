@@ -1,2 +1,2 @@
 # hellow-world
-just an hellow-world Repository
+just an hellow-world Repository of Nitzan Hardon
